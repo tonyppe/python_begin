@@ -8,7 +8,6 @@ This Python reference guide provides a structured overview of essential language
    - [Indentation in Python](#indentation-in-python)
    - [Comments in Python](#comments-in-python)
    - [Line Continuation](#line-continuation-in-python)
-
 2. [Data Types](#data-types)
    - [Numeric Types in Python (int, float, complex)](#numeric-types-in-python-int-float-complex)
    - [Sequence Types in Python (list, tuple, range)](#sequence-types-in-python-list-tuple-range)
@@ -17,11 +16,9 @@ This Python reference guide provides a structured overview of essential language
    - [Set Types in Python (set, frozenset)](#set-types-in-python-set-frozenset)
    - [Boolean Type in Python (bool)](#boolean-type-in-python-bool)
    - [None Type in Python (NoneType)](#none-type-in-python-nonetype)
-
 3. [Variables and Assignment](#variables-and-assignment-in-python)
    - [Variable Naming Conventions](#variable-naming-conventions)
    - [Multiple Assignment](#multiple-assignment)
-
 4. [Operators in Python](#operators-in-python)
    - [Arithmetic Operators](#arithmetic-operators)
    - [Comparison Operators](#comparison-operators)
@@ -29,62 +26,46 @@ This Python reference guide provides a structured overview of essential language
    - [Identity Operators](#identity-operators)
    - [Membership Operators](#membership-operators)
    - [Bitwise Operators](#bitwise-operators)
-
 5. [Control Flow in Python](#control-flow-in-python)
    - [Conditional Statements (if, elif, else)](#conditional-statements-if-elif-else)
    - [Loops (for, while)](#loops-for-while)
    - [Break, Continue, and Pass Statements](#break-continue-and-pass-statements)
-
 6. [Functions in Python](#functions-in-python)
    - [Function Definition and Calling](#function-definition-and-calling)
    - [Parameters and Arguments](#parameters-and-arguments)
    - [Return Statements](#return-statements)
    - [Lambda Functions](#lambda-functions)
-
 7. [Data Structures in Python](#data-structures-in-python)
    - [Lists](#lists)
    - [Tuples](#tuples)
    - [Dictionaries](#dictionaries)
    - [Sets](#sets)
-
 8. [Modules and Packages in Python](#modules-and-packages-in-python)
    - [Importing Modules](#importing-modules)
    - [Creating Modules](#creating-modules)
    - [Package Structure](#package-structure)
-
 9. [File Handling in Python](#file-handling-in-python)
    - [Opening and Closing Files](#opening-and-closing-files)
    - [Reading and Writing Files](#reading-and-writing-files)
    - [Working with CSV and JSON Files](#working-with-csv-and-json-files)
-
 10. [Exception Handling in Python](#exception-handling-in-python)
     - [Try, Except, Else, and Finally Blocks](#try-except-else-and-finally-blocks)
     - [Raising Exceptions](#raising-exceptions)
-
 11. [Object-Oriented Programming (OOP) in Python](#object-oriented-programming-oop-in-python)
     - [Classes and Objects](#classes-and-objects)
     - [Inheritance](#inheritance)
     - [Encapsulation](#encapsulation)
     - [Polymorphism](#polymorphism)
-
 12. [Built-in Functions in Python](#built-in-functions-in-python)
-
 13. [List Comprehensions and Generator Expressions](#list-comprehensions-and-generator-expressions)
     - [Generator Expressions](#generator-expressions)
-
 14. [Decorators in Python](#decorators-in-python)
-
 15. [Context Managers (with statement)](#context-managers-with-statement)
-
 16. [Iterators and Generators](#iterators-and-generators)
     - [Generators](#generators)
-
 17. [Regular Expressions in Python](#regular-expressions-in-python)
-
 18. [Standard Library in Python](#standard-library-in-python)
-
 19. [Virtual Environments in Python](#virtual-environments-in-python)
-
 20. [Package Management with pip](#package-management-with-pip)
 
 ---
