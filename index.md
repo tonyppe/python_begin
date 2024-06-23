@@ -1,6 +1,6 @@
 # Introduction
 
-This Python reference guide provides a structured overview of essential language elements and programming concepts. It covers syntax, data types, operators, control flow, functions, data structures, modules, packages, file handling, exception handling, and object-oriented programming principles. Designed for quick information rereference, each concept is presented with practical examples, best practices, and common pitfalls.
+This Python reference guide provides a structured overview of essential language elements and programming concepts. It covers syntax, data types, operators, control flow, functions, data structures, modules, packages, file handling, exception handling, and object-oriented programming principles. Designed for quick information reference, each concept is presented with practical examples, best practices, and common pitfalls.
 
 # Table of Contents
 
